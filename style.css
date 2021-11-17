@@ -1,0 +1,6 @@
+body{
+  font-family: Arvo, serif;
+  background: url("img/note1.jpg") no-repeat center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
